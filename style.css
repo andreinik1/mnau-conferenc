@@ -689,7 +689,7 @@ article {
     gap: 15px;
   }
   .sect-card {
-    width: 100%;
+    width: 90%;
     max-width: 400px;
   }
 
@@ -708,6 +708,11 @@ article {
     flex-direction: column;
     text-align: center;
   }
+
+  .footer-contact-block {
+    max-width: 80%;
+  }
+
   .footer img {
     margin-right: 0;
     margin-bottom: 15px;
