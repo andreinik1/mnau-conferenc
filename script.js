@@ -11,7 +11,7 @@
   window.addEventListener("resize", report);
 })();
 
-const targetDate = new Date(2025, 11, 8, 10, 0, 0).getTime();
+const targetDate = new Date(2026, 4, 8, 10, 0, 0).getTime();
 
 const daysDisplay = document.getElementById("days");
 const hoursDisplay = document.getElementById("hours");
